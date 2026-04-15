@@ -210,6 +210,7 @@ That limitation motivated this project; exporting CSV and plotting with Python/P
 * Add an option to fetch CSV directly from Google Sheets (authenticated flow or published CSV link).
 * Improve UI: per-band toggles, export PNG/PDF, date-range filtering, smoothing options.
 * Translate this project so it can reach out more people? (in French/Moroccan Darija/Arabic)
+* Ditch the Google Form and make a static website that can export CSV and add data to it after filling the self-assessment?
 
 <!-- TOC --><a name="thank-you-"></a>
 ## Thank you 💖
@@ -218,6 +219,7 @@ Yes, you! Thank you, whoever you are. You are enough, always! Good luck. 🦈
 <!-- TOC --><a name="changelog"></a>
 ## ChangeLog
 
+15/04/2026: Added an item to the To-Do list and wording in Read.md
 14/04/2026: Initial release: CSV parsing, weighted-score computation, interactive Plotly graphs with time-accurate x-axis, shaded depression-level bands, invalid-value handling, and HTML outputs. Added Read.md.
 
 <!-- TOC --><a name="-mit-license"></a>

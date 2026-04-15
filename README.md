@@ -166,7 +166,6 @@ If your timestamp uses mm/dd order, set DAYFIRST = False in src/main.py.
 ## Usage
 
 * Place your CSV in data/ (example: data/data.csv). **Do not commit sensitive info.**
-* Create and activate a virtual environment (recommended).
 * Install dependencies: pip install -r requirements.txt
 * Run: python src/main.py
     * outputs/fig_px_line.html
